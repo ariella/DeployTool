@@ -1,0 +1,8 @@
+name: Terminussssss
+repo: https://github.com/alissonMMenezes/Terminus.git
+commands:
+  - apt-get clean
+  - apt-get update
+  - apt-get -f  install -y
+
+
